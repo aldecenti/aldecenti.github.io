@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aldecenti.github.io/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/app/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/assets/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/css/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/includes/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/item/sitemap.html.gz
+Sitemap: https://aldecenti.github.io/src/sitemap.html.gz
